@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a69a3474-6915-4662-80aa-9e9e471f3fd7}</ProjectGuid>
-    <RootNamespace>KelimeOyunu</RootNamespace>
+    <ProjectGuid>{f4abfcd1-4cea-4c47-afd3-13820ff3cca6}</ProjectGuid>
+    <RootNamespace>Kurpiyer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="KelimeOyunu.cpp" />
+    <ClCompile Include="Kurpiyer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
